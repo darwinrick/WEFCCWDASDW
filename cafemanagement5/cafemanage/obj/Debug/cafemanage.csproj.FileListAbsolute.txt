@@ -1,0 +1,12 @@
+C:\Users\user\Documents\SharpDevelop Projects\cafemanage\bin\Debug\cafemanage.exe.config
+C:\Users\user\Documents\SharpDevelop Projects\cafemanage\bin\Debug\cafemanage.exe
+C:\Users\user\Documents\SharpDevelop Projects\cafemanage\bin\Debug\cafemanage.pdb
+C:\Users\user\Documents\SharpDevelop Projects\cafemanage\obj\Debug\cafemanage.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\SharpDevelop Projects\cafemanage\obj\Debug\cafemanage.MainForm.resources
+C:\Users\user\Documents\SharpDevelop Projects\cafemanage\obj\Debug\cafemanage.csproj.GenerateResource.Cache
+C:\Users\user\Documents\SharpDevelop Projects\cafemanage\obj\Debug\cafemanage.exe
+C:\Users\user\Documents\SharpDevelop Projects\cafemanage\obj\Debug\cafemanage.pdb
+C:\Users\user\Documents\SharpDevelop Projects\cafemanage\obj\Debug\cafemanage.GuestOrder.resources
+C:\Users\user\Documents\SharpDevelop Projects\cafemanage\obj\Debug\cafemanage.UserOrder.resources
+C:\Users\user\Documents\SharpDevelop Projects\cafemanage\obj\Debug\cafemanage.ItemForm.resources
+C:\Users\user\Documents\SharpDevelop Projects\cafemanage\obj\Debug\cafemanage.UserForm.resources
